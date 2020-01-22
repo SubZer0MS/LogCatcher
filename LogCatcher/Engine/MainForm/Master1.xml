@@ -1,0 +1,6 @@
+<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  Title="LogCatcher" Height="460" Width="700" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Visible">
+    <Grid Height="auto" Width="auto" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True">
+        <TabControl Name="tabControl" HorizontalAlignment="Stretch" Height="auto" Margin="10,10,10,10" VerticalAlignment="Stretch" Width="auto" Grid.IsSharedSizeScope="True" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True">

@@ -1,4 +1,4 @@
-Function PopulateForm {
+Function PopulateMasterUI {
     Add-Type -AssemblyName PresentationFramework 
     [xml]$form = Get-Content -Path $FormLocation
     
